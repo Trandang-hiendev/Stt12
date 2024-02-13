@@ -17,7 +17,7 @@ client.on('ready', async () => {
 
     const rpc = new Discord.RichPresence()
         .setApplicationId('1206534288091250758')
-        .setType('PLAYING')
+        .setType('STREAMING')
         .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
         .setDetails(`hello i'm Hine`)
         .setName(`here is my discord`)
