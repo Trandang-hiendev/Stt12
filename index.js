@@ -39,4 +39,4 @@ client.on('ready', async () => {
 });
 
 //Account Token
-client.login(process.env.TOKEN);
+client.login(process.env.token);
