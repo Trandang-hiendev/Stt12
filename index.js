@@ -19,17 +19,17 @@ client.on('ready', async () => {
         .setApplicationId('1206534288091250758')
         .setType('STREAMING')
         .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
-        .setDetails(`hello i'm Hine`)
+        .setDetails(`Lang : Vie/Eng`)
         .setName(`here is my info`)
-        .setState(`have a nice day`)
+        .setState(`What is love? ?`)
         .setParty({
             max: 5001,
             current: 4690,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`https://media.discordapp.net/attachments/1116523223299924050/1246078570103836773/445381268_467670479251934_6674480907156068502_n.jpg?ex=665b149a&is=6659c31a&hm=0a9da7ccb12d3df06ba7d3415874166aaebb50ee5a095e57261ec732a2c41435&`)
+        .setAssetsLargeImage(`https://media.discordapp.net/attachments/1116523223299924050/1246079929943330869/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif?ex=665b15de&is=6659c45e&hm=33d129427b3d3ea1a99bae7aff60c272706e2391d988f53759306ec32501834a&`)
         .setAssetsLargeText(`07/12/2006`)
-        .setAssetsSmallImage(`https://media.discordapp.net/attachments/1116523223299924050/1246079929943330869/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif?ex=665b15de&is=6659c45e&hm=33d129427b3d3ea1a99bae7aff60c272706e2391d988f53759306ec32501834a&`)
+        .setAssetsSmallImage(`https://media.discordapp.net/attachments/1116523223299924050/1246078570103836773/445381268_467670479251934_6674480907156068502_n.jpg?ex=665b149a&is=6659c31a&hm=0a9da7ccb12d3df06ba7d3415874166aaebb50ee5a095e57261ec732a2c41435&`)
         .setAssetsSmallText(`Gay`)
         .addButton(`My Website`, `https://danghien.info/`)
         .addButton(`Discord Server`, `https://discord.gg/allwaswell`);
