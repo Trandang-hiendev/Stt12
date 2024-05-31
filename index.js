@@ -31,8 +31,8 @@ client.on('ready', async () => {
         .setAssetsLargeText(`dead`)
         .setAssetsSmallImage(`mp:attachments/754377615774842923/1083782130930303126/e1a431f195998ae2c25ad1fc30f497c3.jpg`)
         .setAssetsSmallText(`Gay`)
-        .addButton(`Discord Shop`, `https://discord.gg/heprxstore `)
-        .addButton(`Discord Server`, `https://discord.gg/lilbae`);
+        .addButton(`My Website`, `https://danghien.info/`)
+        .addButton(`Discord Server`, `https://discord.gg/allwaswell`);
     client.user.setActivity(rpc.toJSON());
 
     console.log(`${client.user.tag} is ready!`);
