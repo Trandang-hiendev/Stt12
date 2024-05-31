@@ -27,7 +27,7 @@ client.on('ready', async () => {
             current: 4690,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`https://media.discordapp.net/attachments/1116523223299924050/1214935542144172062/tumblr_a61c4713893b6a7ffb86bbdca7898469_92b68e4b_540.gif?ex=65faebe5&is=65e876e5&hm=688afa5524baf93cefddc4eaaeaef2fc7054708f4f42c4074441acb69a863593&`)
+        .setAssetsLargeImage(`https://media.discordapp.net/attachments/1116523223299924050/1246078570103836773/445381268_467670479251934_6674480907156068502_n.jpg?ex=665b149a&is=6659c31a&hm=0a9da7ccb12d3df06ba7d3415874166aaebb50ee5a095e57261ec732a2c41435&`)
         .setAssetsLargeText(`07/12/2006`)
         .setAssetsSmallImage(`mp:attachments/754377615774842923/1083782130930303126/e1a431f195998ae2c25ad1fc30f497c3.jpg`)
         .setAssetsSmallText(`Gay`)
