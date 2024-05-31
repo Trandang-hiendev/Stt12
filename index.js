@@ -19,9 +19,9 @@ client.on('ready', async () => {
         .setApplicationId('1206534288091250758')
         .setType('STREAMING')
         .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
-        .setDetails(`Lang : Vie/Eng`)
+        .setDetails(`Что такое любовь ?`)
         .setName(`here is my info`)
-        .setState(`What is love? ?`)
+        .setState(`What is love?`)
         .setParty({
             max: 5001,
             current: 4690,
